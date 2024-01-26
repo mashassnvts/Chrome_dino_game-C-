@@ -1,0 +1,9 @@
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\obj\Debug\Dino-C-Scharp.csproj.AssemblyReference.cache
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\obj\Debug\Dino_C_Scharp.Properties.Resources.resources
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\obj\Debug\Dino-C-Scharp.csproj.GenerateResource.cache
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\obj\Debug\Dino-C-Scharp.csproj.CoreCompileInputs.cache
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\bin\Debug\Dino-C-Scharp.exe.config
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\bin\Debug\Dino-C-Scharp.exe
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\bin\Debug\Dino-C-Scharp.pdb
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\obj\Debug\Dino-C-Scharp.exe
+D:\4sem\Dino-C-Scharp\Dino-C-Scharp\obj\Debug\Dino-C-Scharp.pdb
