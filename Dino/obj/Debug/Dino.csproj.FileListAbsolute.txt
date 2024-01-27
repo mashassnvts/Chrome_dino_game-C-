@@ -1,9 +1,0 @@
-D:\4sem\Dino\Dino\obj\Debug\Dino.csproj.AssemblyReference.cache
-D:\4sem\Dino\Dino\obj\Debug\Dino.Properties.Resources.resources
-D:\4sem\Dino\Dino\obj\Debug\Dino.csproj.GenerateResource.cache
-D:\4sem\Dino\Dino\obj\Debug\Dino.csproj.CoreCompileInputs.cache
-D:\4sem\Dino\Dino\bin\Debug\Dino.exe.config
-D:\4sem\Dino\Dino\bin\Debug\Dino.exe
-D:\4sem\Dino\Dino\bin\Debug\Dino.pdb
-D:\4sem\Dino\Dino\obj\Debug\Dino.exe
-D:\4sem\Dino\Dino\obj\Debug\Dino.pdb
